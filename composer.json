@@ -1,5 +1,5 @@
 {
-    "name": "phalcon/migrations",
+    "name": "dekiftw/phalcon-migrations",
     "description": "Run and Generate DB Migrations with Phalcon Framework",
     "keywords": [
         "framework",
